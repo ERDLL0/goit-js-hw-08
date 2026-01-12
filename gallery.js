@@ -81,3 +81,4 @@ galleryContainer.addEventListener('click', event => {
   };
   window.addEventListener('keydown', onEscKey);
 });
+
